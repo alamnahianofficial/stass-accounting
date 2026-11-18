@@ -11,55 +11,55 @@ Stass Accounting is an enterprise-grade, offline-first double-entry accounting a
 ## System Interface Gallery
 
 ### Financial Dashboard & Workspace Navigation
-<p align="center">
-  <img src="Assets/dashboard.png" alt="Executive Financial Dashboard" width="49%">
-  <img src="Assets/home-desktop.png" alt="Workspace Navigation Hub" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/dashboard.png" alt="Executive Financial Dashboard" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/home-desktop.png" alt="Workspace Navigation Hub" width="100%"></td>
+</tr></table>
 
 - **Executive Financial Dashboard:** Provides business owners with instant visibility into aggregate cash position, customer receivables, supplier payables, monthly sales performance, pending invoice reviews, and system backup integrity.
 - **Workspace Navigation Hub:** Organizes the enterprise workflow across nine categorized business domains: Home, Sales, Purchases, Stock, Banking, Accounting, Reports, Settings, and Administration. Navigation dynamically respects user roles and granular permissions.
 
 ### Commercial Invoicing & Template Customization
-<p align="center">
-  <img src="Assets/invoice-template-editor.png" alt="Invoice Template Designer" width="49%">
-  <img src="Assets/sharing-email.png" alt="Controlled Invoice Sharing" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/invoice-template-editor.png" alt="Invoice Template Designer" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/sharing-email.png" alt="Controlled Invoice Sharing" width="100%"></td>
+</tr></table>
 
 - **Invoice Template Designer:** A visual layout customizer allowing companies to configure multi-column commercial invoice templates, custom header typography, payment instructions, and PDF print presets.
 - **Controlled Invoice Sharing:** Generates expiring, revocable read-only invoice snapshot links and prepares structured email communication while keeping production database instances isolated from external networks.
 
 ### Banking & Statement Reconciliation
-<p align="center">
-  <img src="Assets/bank-reconciliation.png" alt="Bank Statement Matching" width="49%">
-  <img src="Assets/money-help.png" alt="Banking Setup Assistance" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/bank-reconciliation.png" alt="Bank Statement Matching" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/money-help.png" alt="Banking Setup Assistance" width="100%"></td>
+</tr></table>
 
 - **Bank Statement Reconciliation:** Ingests external bank statement CSVs, preserves raw statement integrity, and supports audited two-way matching against recorded ledger disbursements and receipts with discrepancy tracking.
 - **Contextual Financial Setup:** In-app operational guidance that assists operators in configuring chart-of-accounts classifications, cash drawers, and bank accounts without abandoning active drafts.
 
 ### Financial Reporting & Ledger Integrity
-<p align="center">
-  <img src="Assets/profit-loss.png" alt="Profit and Loss Statement" width="49%">
-  <img src="Assets/trial-balance.png" alt="Financial Trial Balance" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/profit-loss.png" alt="Profit and Loss Statement" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/trial-balance.png" alt="Financial Trial Balance" width="100%"></td>
+</tr></table>
 
 - **Profit and Loss Statement:** Computes multi-period operational revenue, cost of goods sold (COGS), gross margins, and operational overheads with full drill-down to underlying journal postings.
 - **Trial Balance & Ledger Verification:** Real-time debit and credit verification enforcing zero imbalance across all asset, liability, equity, income, and expense ledgers with fiscal year continuation.
 
 ### Inventory, Stock Valuation & Staged Data Intake
-<p align="center">
-  <img src="Assets/stock-inventory.png" alt="Perpetual Stock Valuation" width="49%">
-  <img src="Assets/import-data.png" alt="Staged Data Import Pipeline" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/stock-inventory.png" alt="Perpetual Stock Valuation" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/import-data.png" alt="Staged Data Import Pipeline" width="100%"></td>
+</tr></table>
 
 - **Perpetual Stock & Valuation:** Tracks inventory balances across multiple physical warehouses using weighted moving-average unit costing, automated stock adjustment journals, and financial period locks.
 - **Staged Import Pipeline:** Validates high-volume CSV, XLSX, and JSON master data and transaction groups before ledger submission, catching duplicate entries and schema mismatches in an isolated sandbox.
 
 ### Localization & Interactive Operational Guides
-<p align="center">
-  <img src="Assets/dashboard-mobile-bn.png" alt="Native Bengali Typography" width="49%">
-  <img src="Assets/guide-tour-bn.png" alt="Bilingual Interactive Guides" width="49%">
-</p>
+<table><tr>
+<td valign="top" width="50%"><img src="Assets/dashboard-mobile-bn.png" alt="Native Bengali Typography" width="100%"></td>
+<td valign="top" width="50%"><img src="Assets/guide-tour-bn.png" alt="Bilingual Interactive Guides" width="100%"></td>
+</tr></table>
 
 - **Native Bilingual Support:** Complete English and Bengali user interface utilizing embedded Noto Sans Bengali typography, localized numerals, cultural date formatting, and taka currency conventions.
 - **Interactive In-App Guided Tours:** 49 built-in operational tours explaining navigation routes, accounting conventions, and document lifecycles without mutating database records.
