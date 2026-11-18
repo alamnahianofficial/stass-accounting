@@ -10,9 +10,11 @@ Stass Accounting is an enterprise-grade, offline-first double-entry accounting a
 
 ## System Interface Gallery
 
+<sub>Click any screenshot to open the full-length page.</sub>
+
 ### Financial Dashboard & Workspace Navigation
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/dashboard.png" alt="Executive Financial Dashboard" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/dashboard.png"><img src="Assets/preview/dashboard.png" alt="Executive Financial Dashboard" width="100%"></a></td>
 <td valign="top" width="50%"><img src="Assets/home-desktop.png" alt="Workspace Navigation Hub" width="100%"></td>
 </tr></table>
 
@@ -21,8 +23,8 @@ Stass Accounting is an enterprise-grade, offline-first double-entry accounting a
 
 ### Commercial Invoicing & Template Customization
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/invoice-template-editor.png" alt="Invoice Template Designer" width="100%"></td>
-<td valign="top" width="50%"><img src="Assets/sharing-email.png" alt="Controlled Invoice Sharing" width="100%"></td>
+<td valign="top" width="65%"><a href="Assets/invoice-template-editor.png"><img src="Assets/preview/invoice-template-editor.png" alt="Invoice Template Designer" width="100%"></a></td>
+<td valign="top" width="35%"><a href="Assets/sharing-email.png"><img src="Assets/preview/sharing-email.png" alt="Controlled Invoice Sharing" width="100%"></a></td>
 </tr></table>
 
 - **Invoice Template Designer:** A visual layout customizer allowing companies to configure multi-column commercial invoice templates, custom header typography, payment instructions, and PDF print presets.
@@ -30,7 +32,7 @@ Stass Accounting is an enterprise-grade, offline-first double-entry accounting a
 
 ### Banking & Statement Reconciliation
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/bank-reconciliation.png" alt="Bank Statement Matching" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/bank-reconciliation.png"><img src="Assets/preview/bank-reconciliation.png" alt="Bank Statement Matching" width="100%"></a></td>
 <td valign="top" width="50%"><img src="Assets/money-help.png" alt="Banking Setup Assistance" width="100%"></td>
 </tr></table>
 
@@ -39,7 +41,7 @@ Stass Accounting is an enterprise-grade, offline-first double-entry accounting a
 
 ### Financial Reporting & Ledger Integrity
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/profit-loss.png" alt="Profit and Loss Statement" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/profit-loss.png"><img src="Assets/preview/profit-loss.png" alt="Profit and Loss Statement" width="100%"></a></td>
 <td valign="top" width="50%"><img src="Assets/trial-balance.png" alt="Financial Trial Balance" width="100%"></td>
 </tr></table>
 
@@ -48,7 +50,7 @@ Stass Accounting is an enterprise-grade, offline-first double-entry accounting a
 
 ### Inventory, Stock Valuation & Staged Data Intake
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/stock-inventory.png" alt="Perpetual Stock Valuation" width="100%"></td>
+<td valign="top" width="50%"><a href="Assets/stock-inventory.png"><img src="Assets/preview/stock-inventory.png" alt="Perpetual Stock Valuation" width="100%"></a></td>
 <td valign="top" width="50%"><img src="Assets/import-data.png" alt="Staged Data Import Pipeline" width="100%"></td>
 </tr></table>
 
@@ -57,8 +59,8 @@ Stass Accounting is an enterprise-grade, offline-first double-entry accounting a
 
 ### Localization & Interactive Operational Guides
 <table><tr>
-<td valign="top" width="50%"><img src="Assets/dashboard-mobile-bn.png" alt="Native Bengali Typography" width="100%"></td>
-<td valign="top" width="50%"><img src="Assets/guide-tour-bn.png" alt="Bilingual Interactive Guides" width="100%"></td>
+<td valign="top" align="center" width="50%"><a href="Assets/dashboard-mobile-bn.png"><img src="Assets/preview/dashboard-mobile-bn.png" alt="Native Bengali Typography" width="300"></a></td>
+<td valign="top" align="center" width="50%"><a href="Assets/guide-tour-bn.png"><img src="Assets/preview/guide-tour-bn.png" alt="Bilingual Interactive Guides" width="300"></a></td>
 </tr></table>
 
 - **Native Bilingual Support:** Complete English and Bengali user interface utilizing embedded Noto Sans Bengali typography, localized numerals, cultural date formatting, and taka currency conventions.
